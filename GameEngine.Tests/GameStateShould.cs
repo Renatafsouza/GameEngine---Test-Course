@@ -19,7 +19,9 @@ namespace GameEngine.Tests
         [Fact]
         public void DamageAllPlayersWhenEarthquake()
         {
-            // Substitiu o sut pela instância do fixture. Para compartilhar a instância
+            // Meu método utiliza uma thread de .sleep. Dessa forma, o fixture cai bem para
+            // reduzir o tempo de execução do teste.
+            // Substitiu o sut pela instância do fixture. Para compartilhar a instância.
             _output.WriteLine($"GameState ID={_gameStateFixture.State.Id}");
             
             var player1 = new PlayerCharacter();
