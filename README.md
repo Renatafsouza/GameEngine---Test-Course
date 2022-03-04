@@ -1,1 +1,6 @@
-# GameEngine---Test-Course
+# Testing .NET Code with xUnit.net: Getting Started
+### by Jason Roberts
+
+#### xUnit.net is a modern testing framework that is also used by the .NET development team. This course teaches you how to get started writing xUnit.net automated tests to verify your application is working as expected and help prevent costly bugs.
+
+It's usually more expensive, time-consuming, and stressful to fix software bugs after they have been released to production environments. A good set of automated tests helps to verify that the application is working as expected and helps to prevent bugs from getting into production. In this course, Testing .NET Code with xUnit.net: Getting Started, you'll get an overview of automated testing to empower you to be able to start testing your own applications. First, you'll learn how to create xUnit.net automated tests that verify different types of results. Next, you'll explore how to customize and control test execution and categorization. Finally, you'll discover how to reduce the amount of test code you need to write by using the power of data-driven tests. When you're finished with this course, you'll have a foundational knowledge of xUnit.net that will help you to start writing your own automated tests.
