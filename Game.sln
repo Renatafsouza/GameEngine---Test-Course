@@ -4,6 +4,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameEngine", "GameEngine\GameEngine.csproj", "{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine.Tests", "GameEngine.Tests\GameEngine.Tests.csproj", "{290BB46F-1A46-4947-9424-E48137AB102B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,18 +28,18 @@ Global
 		{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}.Release|x64.Build.0 = Release|Any CPU
 		{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}.Release|x86.ActiveCfg = Release|Any CPU
 		{4AFC869A-D410-4410-9BF5-7F748F4BA2E6}.Release|x86.Build.0 = Release|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Debug|x64.Build.0 = Debug|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Debug|x86.Build.0 = Debug|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Release|x64.ActiveCfg = Release|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Release|x64.Build.0 = Release|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Release|x86.ActiveCfg = Release|Any CPU
-		{60593235-E359-4B94-8F28-2C02D94427BD}.Release|x86.Build.0 = Release|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Debug|x64.Build.0 = Debug|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Debug|x86.Build.0 = Debug|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Release|x64.ActiveCfg = Release|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Release|x64.Build.0 = Release|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Release|x86.ActiveCfg = Release|Any CPU
+		{290BB46F-1A46-4947-9424-E48137AB102B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
